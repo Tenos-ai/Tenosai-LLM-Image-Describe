@@ -1,0 +1,5 @@
+{
+  "openai_api_key": "key",
+  "google_api_key": "key",
+  "groq_api_key": "key"
+}

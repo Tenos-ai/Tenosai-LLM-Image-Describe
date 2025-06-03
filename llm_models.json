@@ -1,0 +1,25 @@
+{
+  "providers": {
+    "gemini": {
+      "display_name": "Google Gemini API",
+      "models": [
+        "gemini-1.5-flash",
+        "gemini-1.5-pro"
+      ]
+    },
+    "groq": {
+      "display_name": "Groq API",
+      "models": [
+        "llava-v1.5-7b"
+      ]
+    },
+    "openai": {
+      "display_name": "OpenAI API",
+      "models": [
+        "gpt-4o",
+        "gpt-4o-mini",
+        "gpt-4-turbo"
+      ]
+    }
+  }
+}
