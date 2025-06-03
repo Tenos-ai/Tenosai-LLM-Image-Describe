@@ -1,0 +1,14 @@
+[project]
+name = "Tenos_LLM_Image_Describe"
+description = "A swiss‑army ComfyUI node that lets any vision‑capable LLM (OpenAI GPT‑4o, Gemini 1.5 Pro Vision, Groq‑mix… you name it) rip through a reference image and return a prompt you can feed straight back into your diffusion pipeline—no hand‑crafting required."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/Tenos-ai/Tenos-LLM-Image-Describe"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "tenosai"
+DisplayName = "Tenos_LLM_Image_Describe"
+Icon = "https://avatars.githubusercontent.com/u/207890088?v=4&size=40"
