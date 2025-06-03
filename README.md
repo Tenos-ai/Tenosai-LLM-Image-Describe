@@ -1,4 +1,4 @@
-# Tenosai LLM Image Describe
+# Tenos.ai LLM Image Describe
 
 A swiss‑army ComfyUI node that lets **any** vision‑capable LLM (OpenAI GPT‑4o, Gemini 1.5 Pro Vision, Groq‑mix… you name it) rip through a reference image and return a prompt you can feed straight back into your diffusion pipeline—no hand‑crafting required.&#x20;
 
